@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **DERO Project**
+- 💬 Ask me about **DERO Project** or **Xelis Blockchain**
 
-- 📫 How to reach me **slixeprivate@gmail.com**
+- 📫 How to reach me **Slixe#0069** on Discord
 
 
 <h3 align="left">Languages and Tools:</h3>
