@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Slixe</h1>
 <h3 align="center">A computer science student with a passion for blockchain.</h3>
 
-- 🔭 I’m currently working on [Xelis VM](https://github.com/Slixe/xelis-vm)
+- 🔭 I’m currently working on [Xelis Blockchain](https://github.com/Slixe/xelis-blockchain)
 
 - 🌱 Favorites languages: Rust, Golang, Java
 
-- 💬 Ask me about **DERO Project** or **Xelis Blockchain**
+- 💬 Ask me about: **DERO Project** or **XELIS Blockchain**
 
-- 📫 How to reach me **Slixe#0069** on Discord
+- 📫 How to reach me: **Slixe#0069** on Discord
 
 
 <h3 align="left">Languages and Tools:</h3>
