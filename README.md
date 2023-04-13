@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Slixe</h1>
 <h3 align="center">A computer science student with a passion for blockchain.</h3>
 
-- 🔭 I’m currently working on [Xelis Blockchain](https://github.com/Slixe/xelis-blockchain)
+- 🔭 I’m currently working on [XELIS](https://github.com/xelis-project)
 
 - 🌱 Favorites languages: Rust, Golang, Java
 
