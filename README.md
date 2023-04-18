@@ -2,10 +2,14 @@
 <h3 align="center">A computer science student with a passion for blockchain.</h3>
 <p align="center">
   🔭 I’m currently working on my own blockchain from scratch <a href="https://github.com/xelis-project">XELIS</a> to improve my knowledge.<br/>
+  <br/>
   🌱 My Favorites language are Rust, Golang, Java, Python but I also can work using C#, C++/C, JavaScript, HTML, CSS or even Dart using Flutter.<br/>
+  <br/>
   💬 Ask me about <a href="https://dero.io">DERO</a> or <a href="https://xelis.io">XELIS</a>, my two main projects on which I like to work.<br/>
+  <br/>
   📫 You can reach me on Discord: <strong>Slixe#0069</strong>
 </p>
+<br/>
 <h3 align="center">Some technologies I have used in my life ...</h3>
 <h4 align="center">Tools</h3>
 <p align="center">
@@ -32,14 +36,11 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
   <a href="https://www.w3schools.com/cs/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -71,5 +72,8 @@
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
 </p>
