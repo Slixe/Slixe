@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Slixe</h1>
 <h3 align="center">A computer science student with a passion for blockchain.</h3>
 <p align="center">
-  🔭 I’m currently working on my own blockchain from scratch <a href="https://github.com/xelis-project">XELIS</a> to improve my knowledge.<br/>
+  🔭 I’m currently working on my own blockchain from scratch <a href="https://github.com/xelis-project">XELIS</a>.<br/>
   <br/>
   🌱 My Favorites language are Rust, Golang, Java, Python but I also can work using C#, C++/C, JavaScript, HTML, CSS or even Dart using Flutter.<br/>
   <br/>
-  💬 Ask me about <a href="https://dero.io">DERO</a> or <a href="https://xelis.io">XELIS</a>, my two main projects on which I like to work.<br/>
+  💬 Feel free to ask me anything about <a href="https://xelis.io">XELIS</a>.<br/>
   <br/>
-  📫 You can reach me on Discord: <strong>Slixe#0069</strong>
+  📫 You can reach me on Discord: <strong>slixe</strong>
 </p>
 <br/>
 <h3 align="center">Some technologies I have used in my life ...</h3>
