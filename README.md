@@ -4,7 +4,5 @@
   <br/>
   🌱 My Favorites language are Rust, Golang, Java, Python.<br/>
   <br/>
-  💬 Feel free to ask me anything about <a href="https://xelis.io">XELIS</a>.<br/>
-  <br/>
   📫 You can reach me on Discord: <strong>slixe</strong>
 </p>
